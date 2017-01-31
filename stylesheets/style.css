@@ -1,0 +1,8 @@
+@import "reset.css";
+@import "menubar.css";
+@import "sidebar.css";
+@import "basic.css";
+@import "content.css";
+
+@import "font-awesome.css";
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700&subset=cyrillic');
