@@ -1,4 +1,15 @@
 .content {
-  padding-top: 70px;
+  padding-top: 80px;
   padding-left: 300px;
+}
+
+.content .row {
+  margin-bottom: 10px;
+}
+
+.content .col {
+  background: rgba(255,0,0,.5);
+  border: 1px solid black;
+  text-align: center;
+  height: 60px;
 }
